@@ -1,7 +1,7 @@
-Cupcake app
+STARTECH COMPUTER App
 =================================
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
+This app contains an order flow for Computer with options for Processor, harddisk, monitor and VGA.
 The order details get displayed on an order summary screen and can be shared to another app to
 send the order.
 
