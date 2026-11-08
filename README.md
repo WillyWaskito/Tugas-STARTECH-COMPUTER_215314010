@@ -1,7 +1,7 @@
 STARTECH COMPUTER App
 =================================
 
-This app contains an order flow for Computer with options for Processor, harddisk, monitor and VGA.
+This app contains an order flow for Computer with options for Processor, Harddisk, Monitor and VGA.
 The order details get displayed on an order summary screen and can be shared to another app to
 send the order.
 
